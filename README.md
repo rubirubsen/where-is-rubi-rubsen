@@ -56,3 +56,7 @@ Since the game relies entirely on client-side logic and procedural generation, n
   **Travel:** 
   
   Use the map to fly to the next city. Be careful—flying to the wrong city costs valuable in-game time.
+
+<img width="1911" height="941" alt="grafik" src="https://github.com/user-attachments/assets/038ceae3-e545-439a-93f9-1c776ca33ac0" />
+<img width="1084" height="703" alt="grafik" src="https://github.com/user-attachments/assets/645a3fac-facd-44ec-bec7-868995745d3e" />
+
