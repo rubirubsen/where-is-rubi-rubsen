@@ -39,8 +39,10 @@ Since the game relies entirely on client-side logic and procedural generation, n
    ```
   Open http://localhost:8080 in your browser and start tracking down the thieves!
 
-## 💡 How to Play
+## 💡 How to Play 
 
+  ( Live Demo @ https://core-now.com/detective/ )
+  
   **Investigate:** 
   
   Click on locations within your current city to question witnesses.
